@@ -13,8 +13,25 @@
 ---
 
 <h3> Connect with Me :mag: </h3> 
-<a href="https://google.com"> <img height="30" align="left" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://google.com"> <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<p>
+<a href="https://www.linkedin.com/in/kirubanand-r-2008271aa/"> <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="mailto:19cs121@psgitech.ac.in"> <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> </a>
+</p>
+
+---
+
+<h3> Languages and Tools :bulb: </h3>
+<p>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
+<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/>
+<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/android.svg"/>
+<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
+</p>
 
 ---
 
@@ -24,4 +41,4 @@
 
 <h4> <details> <summary> GitHub Streak :fire: </summary> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiruba-r11&theme=radical"/> </details> </h4>
 
-
+---
