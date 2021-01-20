@@ -14,7 +14,7 @@
 
 <h3> Connect with Me :mag: </h3> 
 <a href="https://google.com"> <img height="30" align="left" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://google.com"> <img height="30" align="left" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<a href="https://google.com"> <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> </a>
 
 ---
 
