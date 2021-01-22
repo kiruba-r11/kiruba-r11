@@ -35,10 +35,10 @@
 
 ---
 
-<h4> <details> <summary> GitHub Stats :metal: </summary> <p align="center"> <img src="https://komarev.com/ghpvc/?username=kiruba-r11&label=PROFILE+VIEWS&color=ff3d67"/> <br> <br> <img src="https://github-readme-stats.vercel.app/api?username=kiruba-r11&show_icons=true&theme=radical"/> </p> </details> </h4>
+<h4> <details> <summary> GitHub Stats :metal: </summary> <p align="center"> <br> <br> <img src="https://komarev.com/ghpvc/?username=kiruba-r11&label=PROFILE+VIEWS&color=ff3d67"/> <br> <br> <img src="https://github-readme-stats.vercel.app/api?username=kiruba-r11&show_icons=true&theme=radical"/> </p> </details> </h4>
 
-<h4> <details> <summary> Languages Used :exclamation: </summary> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruba-r11&layout=compact"/> </details> </h4>
+<h4> <details> <summary> Languages Used :exclamation: </summary> <p align="center"> <br> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruba-r11&layout=compact"/> </details> </h4>
 
-<h4> <details> <summary> GitHub Streak :fire: </summary> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiruba-r11&theme=radical"/> </details> </h4>
+<h4> <details> <summary> GitHub Streak :fire: </summary> <p align="center"> <br> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiruba-r11&theme=radical"/> </details> </h4>
 
 ---
