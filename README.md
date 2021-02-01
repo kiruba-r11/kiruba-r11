@@ -28,6 +28,7 @@
 <img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
 <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/android.svg"/>
 <img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"/>
 <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"/>
 <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
 <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
