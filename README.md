@@ -42,6 +42,6 @@
 
 <h4> <details> <summary> GitHub Streak :fire: </summary> <p align="center"> <br> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiruba-r11&theme=radical"/> </details> </h4>
 
-<h4> <details> <summary> GitHub Trophies :trophy: </summary> <p align="center"> <br> <br> <img width=500 src="https://github-profile-trophy.vercel.app/?username=kiruba-r11&theme=monokai&no-frame=true&column=3&margin-w=15&margin-h=15"/> </details> </h4>
+<h4> <details> <summary> GitHub Trophies :trophy: </summary> <p align="center"> <br> <br> <img width=500 src="https://github-profile-trophy.vercel.app/?username=kiruba-r11&theme=monokai&column=3&margin-w=15&margin-h=15"/> </details> </h4>
 
 ---
