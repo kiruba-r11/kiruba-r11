@@ -15,6 +15,7 @@
 <h3> Connect with Me :mag: </h3> 
 <p>
 <a href="https://www.linkedin.com/in/kirubanand-r-2008271aa/"> <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://github.com/kiruba-r11"> <img height="30" src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/> </a>
 <a href="mailto:19cs121@psgitech.ac.in"> <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </p>
 
