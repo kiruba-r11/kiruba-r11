@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Firebase
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything. I'm happy to help
-- :open_file_folder: Repository currently working on [Simple Calculator](https://github.com/kiruba-r11/Simple-Calculator)
+- :open_file_folder: Repository currently working on `null` (`NullPointerException` is not thrown :laughing:)
 
 ---
 
