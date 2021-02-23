@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there 👋 KIRUBANAND here :v: </h1>
 <h2 align="center"> Competitive Programmer :coffee: and a passionate Android Developer :heart: </h2>
 
-<img align="left" width="200" height="300" src="https://user-images.githubusercontent.com/76843281/105200067-705e8800-5b65-11eb-9cfc-bbb74fdb8987.png"/>
+<img align="left" width="250" height="350" src="https://user-images.githubusercontent.com/76843281/105200067-705e8800-5b65-11eb-9cfc-bbb74fdb8987.png"/>
 
 <h3> About Me :star: </h3>
 
@@ -14,13 +14,31 @@
 ---
 
 <h3> Connect with Me :mag: </h3> 
-<p>
-<a href="https://www.linkedin.com/in/kirubanand-r-2008271aa/"> <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://github.com/kiruba-r11"> <img height="30" src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/> </a>
-<a href="mailto:19cs121@psgitech.ac.in"> <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> </a>
-<a href="https://www.hackerrank.com/prdkiruba"> <img height="30" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
 
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/kirubanand-r-2008271aa/"> 
+        <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+      </a> 
+    </td>
+    <td>
+      <a href="https://github.com/kiruba-r11"> 
+        <img height="30" src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
+      </a>
+    </td>
+    <td>
+      <a href="mailto:19cs121@psgitech.ac.in">
+        <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> 
+      </a>
+    </td>
+    <td>
+      <a href="https://www.hackerrank.com/prdkiruba"> 
+        <img height="30" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
