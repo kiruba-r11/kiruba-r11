@@ -6,7 +6,7 @@
 <h3> About Me :star: </h3>
 
 - 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning Firebase
+- 🌱 I’m currently learning [Material Design Components](https://material.io)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything. I'm happy to help
 - :open_file_folder: Repository currently working on [DSA-guide](https://github.com/kiruba-r11/DSA-guide), [Data Structure and Algorithms](https://github.com/kiruba-r11/Data-Structure-and-Algorithms) as a part of [Cross WoC](https://crosswoc.ieeedtu.in)
