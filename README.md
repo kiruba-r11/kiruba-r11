@@ -48,7 +48,7 @@
 <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
 <img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/>
 <img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"/>
 <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/android.svg"/>
 <img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
 <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"/>
