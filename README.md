@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there 👋 KIRUBANAND here :v: </h1>
-<h2 align="center"> Competitive Programmer :coffee: and a passionate Android Developer :heart: </h2>
+<h2 align="center"> Coder :coffee: Android Developer :heart: </h2>
 
 <img align="left" width="250" height="350" src="https://user-images.githubusercontent.com/76843281/105200067-705e8800-5b65-11eb-9cfc-bbb74fdb8987.png"/>
 
