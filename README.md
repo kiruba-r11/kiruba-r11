@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning [Material Design Components](https://material.io/components?platform=android)
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open source projects and learn Figma
 - 💬 Ask me about anything. I'm happy to help
 - :open_file_folder: Repository currently working on [NeoAlgo](https://github.com/kiruba-r11/NeoAlgo) as a part of [GSSoC'21](https://gssoc.girlscript.tech)
 
