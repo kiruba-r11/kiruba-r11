@@ -5,7 +5,7 @@
 
 <h3> About Me :star: </h3>
 
-- 🔭 I’m currently working on Android Development
+<!-- - 🔭 I’m currently working on Android Development -->
 - 🌱 I’m currently learning basics of Web Development
 - 👯 I’m looking to collaborate on open source projects
 - ❤️ CSS? Let's have a CSS Battle 🔥
