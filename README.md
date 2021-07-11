@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning basics of Web Development
 - 👯 I’m looking to collaborate on open source projects
 - ❤️ CSS? Let's have a CSS Battle 🔥
-
+- 😎 Have a look at my <a href="https://kiruba-r11.github.io/Glassmorphic-Profile-Card/">Profile Card</a>
 - 💬 Ask me about anything. I'm happy to help
 <!-- - :open_file_folder: Repository currently working on [NeoAlgo](https://github.com/kiruba-r11/NeoAlgo) as a part of [GSSoC'21](https://gssoc.girlscript.tech) -->
 
