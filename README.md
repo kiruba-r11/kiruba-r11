@@ -5,13 +5,11 @@
 
 <h3> About Me :star: </h3>
 
-<!-- - 🔭 I’m currently working on Android Development -->
 - 🌱 I’m currently learning basics of Web Development
 - 👯 I’m looking to collaborate on open source projects
 - ❤️ CSS? Let's have a CSS Battle 🔥
 - 😎 Have a look at my <a href="https://kiruba-r11.github.io/Glassmorphic-Profile-Card/">Profile Card</a>
 - 💬 Ask me about anything. I'm happy to help
-<!-- - :open_file_folder: Repository currently working on [NeoAlgo](https://github.com/kiruba-r11/NeoAlgo) as a part of [GSSoC'21](https://gssoc.girlscript.tech) -->
 
 ---
 
@@ -46,18 +44,14 @@
 
 <h3> Languages and Tools :bulb: </h3>
 <p>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/android.svg"/>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
-<!-- <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"/> -->
-<!-- <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"/> -->
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
+<img width="50" height="50" hspace="20" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
+<img width="50" height="60" hspace="20" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"/>
+<img width="50" height="60" hspace="20" src="https://seeklogo.com/images/C/css3-logo-FD8D698B77-seeklogo.com.png"/>
+<img width="50" height="50" hspace="20" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
+<img width="50" height="50" hspace="20" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"/>
+<img width="50" height="50" hspace="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<img width="50" height="50" hspace="20" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+<img width="50" height="50" hspace="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
 </p>
 
 ---
