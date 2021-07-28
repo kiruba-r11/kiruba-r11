@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - ❤️ CSS? Let's have a CSS Battle 🔥
 - 😎 Have a look at my <a href="https://kiruba-r11.github.io/Glassmorphic-Profile-Card/">Profile Card</a>
-- 💬 Ask me about anything. I'm happy to help
+<!-- - 💬 Ask me about anything. I'm happy to help -->
 
 ---
 
