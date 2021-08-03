@@ -52,6 +52,7 @@
 <img width="50" height="50" hspace="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img width="50" height="50" hspace="20" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
 <img width="50" height="50" hspace="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+<img width="50" height="50" hspace="20" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>
 </p>
 
 ---
