@@ -5,11 +5,20 @@
 
 <h3> About Me :star: </h3>
 
-- 🌱 I’m currently learning basics of Backend Web Development
 - 👯 I’m looking to collaborate on open source projects
 - ❤️ CSS? Let's have a CSS Battle 🔥
 - 😎 Have a look at my <a href="https://kiruba-r11.github.io/Glassmorphic-Profile-Card/">Profile Card</a>
-<!-- - 💬 Ask me about anything. I'm happy to help -->
+- 🤜 Check out My Works 
+<table> 
+  <tr> 
+    <td>
+      <a href="https://github.com/kiruba-r11/Open-Source-Contributions">Open Source Contributions</a>
+    </td>
+    <td>
+      <a href="https://github.com/kiruba-r11/Mini-Projects">Mini Projects</a>
+    </td> 
+  </tr> 
+</table>
 
 ---
 
@@ -57,12 +66,43 @@
 
 ---
 
-<h4> <details> <summary> GitHub Stats :metal: </summary> <p align="center"> <br> <br> <img src="https://komarev.com/ghpvc/?username=kiruba-r11&label=PROFILE+VIEWS&color=ff3d67"/> <br> <br> <img src="https://github-readme-stats.vercel.app/api?username=kiruba-r11&show_icons=true&theme=radical"/> </p> </details> </h4>
+<h4> 
+  <details> 
+    <summary> GitHub Stats :metal: </summary> 
+    <p align="center"> 
+      <br> <br> 
+      <img src="https://komarev.com/ghpvc/?username=kiruba-r11&label=PROFILE+VIEWS&color=ff3d67"/> 
+      <br> <br> 
+      <img src="https://github-readme-stats.vercel.app/api?username=kiruba-r11&show_icons=true&theme=radical"/> 
+    </p> 
+  </details> 
+</h4>
 
-<h4> <details> <summary> Languages Used :wrench: </summary> <p align="center"> <br> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruba-r11&layout=compact&theme=radical"/> </details> </h4>
+<h4> 
+  <details> 
+    <summary> Languages Used :wrench: </summary> 
+    <p align="center"> 
+      <br> <br> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruba-r11&layout=compact&theme=radical"/> 
+  </details> 
+</h4>
 
-<h4> <details> <summary> GitHub Streak :fire: </summary> <p align="center"> <br> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiruba-r11&theme=radical"/> </details> </h4>
+<h4> 
+  <details> 
+    <summary> GitHub Streak :fire: </summary> 
+    <p align="center"> 
+      <br> <br> 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiruba-r11&theme=radical"/> 
+  </details> 
+</h4>
 
-<h4> <details> <summary> GitHub Trophies :trophy: </summary> <p align="center"> <br> <br> <img width=500 src="https://github-profile-trophy.vercel.app/?username=kiruba-r11&theme=monokai&column=3&margin-w=15&margin-h=15"/> </details> </h4>
+<h4> 
+  <details> 
+    <summary> GitHub Trophies :trophy: </summary> 
+    <p align="center"> 
+      <br> <br> 
+      <img width=500 src="https://github-profile-trophy.vercel.app/?username=kiruba-r11&theme=monokai&column=3&margin-w=15&margin-h=15"/> 
+  </details> 
+</h4>
 
 ---
