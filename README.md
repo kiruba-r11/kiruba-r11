@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there 👋 <a href="https://kiruba-r11.github.io/Personal-Website/">Kirubanand</a> here :v: </h1>
 <h2 align="center"> Coder :coffee: Front-End Developer :heart: </h2>
 
-<img align="left" width="250" height="350" src="https://user-images.githubusercontent.com/76843281/105200067-705e8800-5b65-11eb-9cfc-bbb74fdb8987.png"/>
+<img align="left" width="210" height="325" src="https://user-images.githubusercontent.com/76843281/105200067-705e8800-5b65-11eb-9cfc-bbb74fdb8987.png"/>
 
 <h3> About Me :star: </h3>
 
